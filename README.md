@@ -1,7 +1,4 @@
-# NLP_Lyrics
-Uses machine learning and natural language processing to develop predictive models and data exploration.
-
-# Project Title: Spotify and Machine Learning
+# Project Title: Letting Music Speak For Itself: Lyric Based Genre Classification
 Uses machine learning and natural language processing to develop predictive models and data exploration of music genres and decades based off of song lyrics. 
 
 ### Prerequisites
